@@ -1,0 +1,49 @@
+/* LoginForm.css */
+.container {
+    margin-top: 5rem;
+  }
+  
+  .card {
+    background-color: rgb(252, 219, 224);
+  }
+  
+  .card-title {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  .text-end {
+    text-align: end;
+    margin-top: 0.5rem;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-success:hover {
+    background-color: #218838;
+    border-color: #1e7e34;
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      margin-top: 3rem;
+    }
+  }
+  .bg2 {
+    background-image: url('https://img.freepik.com/free-photo/top-view-notebooks-desk-with-succulent-plant-paper-clips_23-2148415025.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }  

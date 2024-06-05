@@ -1,0 +1,77 @@
+/* WelcomeAdmin.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #b4d5f5;
+  }
+  
+  .container {
+    max-width: 600px;
+    /* margin-top: 20px; */
+    /* padding: 50px 20px; */
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin-bottom: 30px;
+    font-family: cursive;
+    font-size: 40px;
+    font-weight: 800;
+    color: rgb(119, 117, 117);
+  }
+  
+  .options {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+  }
+  
+  .options button {
+    width: 200px;
+    padding: 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .options button:hover {
+    background-color: #0056b3;
+  }
+  
+
+  .bg5 {
+    background-image: url('https://t3.ftcdn.net/jpg/04/91/65/02/360_F_491650296_hnjsIwj3KoZIuPfShAjjk49Oo5qEAoFm.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  .signout {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+  }
+  
+  .signout button {
+    padding: 10px 20px;
+    background-color: #dc3545;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .signout button:hover {
+    background-color: #c82333;
+  }
+
+  

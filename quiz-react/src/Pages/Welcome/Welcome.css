@@ -1,0 +1,58 @@
+/* QuizInstructions.css */
+
+/* Stylish Navbar */
+.custom-navbar {
+    background-color: #343a40; /* Navbar background color */
+  }
+  
+  .custom-navbar a {
+    color: #ffffff; /* Navbar text color */
+    transition: color 0.3s; /* Smooth color transition on hover */
+  }
+  
+  .navbar-nav a:hover {
+    color: #17a2b8; /* Hover color */
+  }
+  
+  /* Stylish Button */
+  .custom-button {
+    background-color: #17a2b8; /* Button background color */
+    color: #ffffff; /* Button text color */
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s; /* Smooth background color transition on hover */
+  }
+  
+  .custom-button:hover {
+    background-color: #138496; /* Hover background color */
+  }
+  
+  h1 {
+    text-align: center;
+    color: rgb(97, 97, 97);
+    padding-top: 20px;
+  }
+  
+  .p {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(59, 59, 59);
+  }
+  
+
+  .qbg {
+    background-image: url('https://img.freepik.com/premium-photo/bubbles-light-gray-background_476363-3794.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    /* padding: 20px; */
+  }
+  

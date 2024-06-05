@@ -1,0 +1,14 @@
+
+/* SignUpForm.css */
+.bg1 {
+    background-image: url('https://i.pinimg.com/736x/db/34/d4/db34d40b271fb59477621550bf73ea0b.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    /* display: flex; */
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
